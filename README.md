@@ -1,2 +1,2 @@
 # MachineLearningNotebooks
-collection of machine learning notebook for mybinder
+collection of machine learning notebook for google colab
